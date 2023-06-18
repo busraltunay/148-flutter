@@ -72,10 +72,10 @@ Deneme Selamlar
   <!--- image -->
   
 <li>Ürün Durumu:
-  <br> 
+  <br> </br>
   
 <li>:Sprint Review: Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış,  uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları:****
-  <br>
+  <br></br>
   
 <li>Sprint Retrospective:
   <ul>
