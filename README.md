@@ -70,7 +70,11 @@ Deneme Selamlar
 <li>Sprint board update: Sprint board screenshotları:
   <br>
   <!--- image -->
+
+ 
   ![WhatsApp Görsel 2023-06-18 saat 23 59 06](https://github.com/busraltunay/148-flutter/assets/77733418/a117466a-4b91-4596-aa2c-3c603852b917)
+  ![WhatsApp Görsel 2023-06-19 saat 00 03 42](https://github.com/busraltunay/148-flutter/assets/77733418/e2366d64-718f-48a6-8944-87c0f407991c)
+
 
 <li>Ürün Durumu:
   <br> </br>
