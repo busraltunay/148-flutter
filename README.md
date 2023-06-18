@@ -27,12 +27,12 @@ Team-Flutter-148
 https://miro.com/app/board/uXjVM9xFDu0=/
 <hr>
 <h1>Ürün Açıklaması</h1>
-<pre>
+
 Keşfetmenin ve seyahat etmenin kolay yolu! Uygulamamız, en ucuz uçak biletlerini bulmanıza ve diğer seyahat severlerle deneyimlerinizi paylaşmanıza yardımcı olan bir sosyal medya platformudur. Anlık bildirimlerle en düşük fiyatları takip edin, favori destinasyonlarınızı kaydedin ve dünyayı keşfetme tutkunuzu gerçekleştirin!
 <br> <hr>
 <li> Uygulama virincil fonksiyonu : </li>
 <li> Uygulama ikincil fonksiyonu :  </li>
-</pre>
+
 </hr>
 
 <h1>Ürün Özellikleri</h1>
