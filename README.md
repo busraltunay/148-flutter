@@ -31,7 +31,7 @@ https://miro.com/app/board/uXjVM9xFDu0=/
 <hr>
 <h1>Ürün Açıklaması</h1>
 
-Keşfetmenin ve seyahat etmenin kolay yolu! Uygulamamız, en ucuz uçak biletlerini bulmanıza ve diğer seyahat severlerle deneyimlerinizi paylaşmanıza yardımcı olan bir sosyal medya platformudur. Anlık bildirimlerle en düşük fiyatları takip edin, favori destinasyonlarınızı kaydedin ve dünyayı keşfetme tutkunuzu gerçekleştirin!
+
 <br> <hr>
 <li> Uygulama virincil fonksiyonu : </li>
 <li> Uygulama ikincil fonksiyonu :  </li>
@@ -50,17 +50,17 @@ Keşfetmenin ve seyahat etmenin kolay yolu! Uygulamamız, en ucuz uçak biletler
   <br>
   
 <h1>Hedef Kitle</h1>  
-  <li> Seyahat Tutkunları: Uygulamanız, seyahat etmeyi seven ve farklı yerler keşfetmeye ilgi duyan kişileri hedefleyebilir. Bu kişiler, yeni destinasyonlar bulmak, seyahat fırsatlarını kaçırmamak ve deneyimlerini paylaşmak için uygulamayı kullanabilirler.
+  <li> 
  <br> </br>
-<li> Bütçe Dostu Seyahatçiler: Uygulamanız, seyahat etmek isteyen ancak uygun fiyatlı uçak biletleri bulma konusunda dikkatli olan bireyleri hedefleyebilir. Bütçelerine uygun uçak biletleri ve fırsatlarla seyahat planlarını gerçekleştirmek isteyen bu kişiler, uygulamanızı kullanarak en iyi fiyatları bulabilirler.
+<li> 
  <br> </br>
-<li> Sosyal Seyahat Severler: Uygulamanız, seyahat deneyimlerini paylaşmaktan ve diğer seyahat severlerle bağlantı kurmaktan hoşlanan kişileri hedefleyebilir. Sosyal medya benzeri özellikler sayesinde, kullanıcılar seyahat fotoğrafları, videoları ve önerileri paylaşabilir, diğer kullanıcıların deneyimlerini takip edebilir ve seyahat topluluğuyla etkileşimde bulunabilirler.
+<li> 
  <br> </br>
-<li>Seyahat Planlaması Yapanlar: Uygulamanız, seyahat planları yapma aşamasında olan ve farklı destinasyonlar arasında karar vermek isteyen kişileri hedefleyebilir. Uçak biletleri, seyahat tarihleri ve tercih edilen havayolu şirketleri gibi filtreleme seçenekleri sayesinde, kullanıcılar seyahat planlarını uygulama üzerinden kolayca organize edebilirler.
+<li>
   <hr>
 <br>
 <h1>Juriye Not</h1>
-  <li>Deneme
+  <li><h1>YOK</h1>
     <hr>
    <br>
  <h1>Sprint 1</h1>
