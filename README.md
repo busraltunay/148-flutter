@@ -6,6 +6,13 @@ Team-Flutter-148
 <h2> </h2>
 <h1>Ürün İle İlgili Bilgiler</h1>
 <pre>
+            __
+           / _)
+    .-^^^-/ /
+ __/       /
+<__.|_|-|_|
+
+
 </pre>
 
 
@@ -82,7 +89,7 @@ https://miro.com/app/board/uXjVM9xFDu0=/
 <li>Ürün Durumu:
   <br> </br>
   
-<li>:Sprint Review: Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış,  uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları:****
+<li>:Sprint Review: Alınan kararlar: ****  Sprint Review katılımcıları:****
   <br></br>
   
 <li>Sprint Retrospective:
@@ -93,4 +100,8 @@ https://miro.com/app/board/uXjVM9xFDu0=/
   </ul>
   <br>
   <hr>
+  
+    
+
+
  
