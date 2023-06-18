@@ -68,7 +68,7 @@ https://miro.com/app/board/uXjVM9xFDu0=/
   <br> </br>
 <li>Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken *** puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından *** ile başlaması gerektiğine karar verildi.
   <br> </br>
-<li>Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+<li>Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp ya da Discord üzerinden  yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
   <br> </br>
 <li>Sprint board update: Sprint board screenshotları:
   <br>
