@@ -6,15 +6,6 @@ Team-Flutter-148
 <h2> </h2>
 <h1>Ürün İle İlgili Bilgiler</h1>
 <pre>
-            __
-           / _)                                                                  
-    .-^^^-/ /
- __/       /
-<__.|_|-|_|
-
-
-    
-
 </pre>
 
 
@@ -29,10 +20,8 @@ Team-Flutter-148
 <hr />
 
 <h1>Ürün İsmi</h1>
-<li> ---
-  <li> ---
-    <li>---
-<h3>--  --</h3>
+   <h2>  <li>TravelVenture </h2>
+
 <hr>
 <h1>Product Backlog URL</h1>
 <!-- Links -->
@@ -40,7 +29,7 @@ https://miro.com/app/board/uXjVM9xFDu0=/
 <hr>
 <h1>Ürün Açıklaması</h1>
 
-
+Keşfetmenin ve seyahat etmenin kolay yolu! Uygulamamız, en ucuz uçak biletlerini bulmanıza ve diğer seyahat severlerle deneyimlerinizi paylaşmanıza yardımcı olan bir sosyal medya platformudur. Anlık bildirimlerle en düşük fiyatları takip edin, favori destinasyonlarınızı kaydedin ve dünyayı keşfetme tutkunuzu gerçekleştirin!
 <br> <hr>
 <li> Uygulama virincil fonksiyonu : </li>
 <li> Uygulama ikincil fonksiyonu :  </li>
@@ -48,28 +37,30 @@ https://miro.com/app/board/uXjVM9xFDu0=/
 </hr>
 
 <h1>Ürün Özellikleri</h1>
-<li>Deneme
+<li> Ucuz Uçak Bileti Bulma: Kullanıcıların en uygun fiyatlı uçak biletlerini kolayca bulmalarını sağlayan bir arama ve filtreleme özelliği sunar.
  <br> </br>
-<li>Deneme
+<li> Anlık Bildirimler: Kullanıcıların tercih ettikleri uçuş güzergahlarında meydana gelen fiyat düşüşleri veya özel fırsatlar hakkında anlık bildirimler almasını sağlar.
  <br> </br>
-<li>Deneme
+<li> Seyahat Deneyimi Paylaşımı: Kullanıcılar, seyahat fotoğrafları, videoları ve önerileri paylaşarak seyahat deneyimlerini diğer kullanıcılarla paylaşabilir ve etkileşimde bulunabilir.
  <br> </br>
-<li>Deneme
+<li> Özelleştirilebilir Arama: Seyahat tarihleri, tercih edilen havayolu şirketleri ve bütçe gibi filtreleme seçenekleriyle kullanıcıların özelleştirilmiş aramalar yapmasına olanak tanır.
    <hr>
   <br>
   
 <h1>Hedef Kitle</h1>  
-  <li> 
+  <li> Seyahat Tutkunları: Uygulamanız, seyahat etmeyi seven ve farklı yerler keşfetmeye ilgi duyan kişileri hedefleyebilir. Bu kişiler, yeni destinasyonlar bulmak, seyahat fırsatlarını kaçırmamak ve deneyimlerini paylaşmak için uygulamayı kullanabilirler.
  <br> </br>
-<li> 
+<li> Bütçe Dostu Seyahatçiler: Uygulamanız, seyahat etmek isteyen ancak uygun fiyatlı uçak biletleri bulma konusunda dikkatli olan bireyleri hedefleyebilir. Bütçelerine uygun uçak biletleri ve fırsatlarla seyahat planlarını gerçekleştirmek isteyen bu kişiler, uygulamanızı kullanarak en iyi fiyatları bulabilirler.
  <br> </br>
-<li> 
+<li> Sosyal Seyahat Severler: Uygulamanız, seyahat deneyimlerini paylaşmaktan ve diğer seyahat severlerle bağlantı kurmaktan hoşlanan kişileri hedefleyebilir. Sosyal medya benzeri özellikler sayesinde, kullanıcılar seyahat fotoğrafları, videoları ve önerileri paylaşabilir, diğer kullanıcıların deneyimlerini takip edebilir ve seyahat topluluğuyla etkileşimde bulunabilirler.
  <br> </br>
-<li>
+<li>Seyahat Planlaması Yapanlar: Uygulamanız, seyahat planları yapma aşamasında olan ve farklı destinasyonlar arasında karar vermek isteyen kişileri hedefleyebilir. Uçak biletleri, seyahat tarihleri ve tercih edilen havayolu şirketleri gibi filtreleme seçenekleri sayesinde, kullanıcılar seyahat planlarını uygulama üzerinden kolayca organize edebilirler.
   <hr>
+            
 <br>
+            
 <h1>Juriye Not</h1>
-  <li><h1>YOK</h1>
+  <li>---
     <hr>
    <br>
  <h1>Sprint 1</h1>
@@ -77,7 +68,7 @@ https://miro.com/app/board/uXjVM9xFDu0=/
   <br> </br>
 <li>Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken *** puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından *** ile başlaması gerektiğine karar verildi.
   <br> </br>
-<li>Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp ya da Discord üzerinden  yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+<li>Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
   <br> </br>
 <li>Sprint board update: Sprint board screenshotları:
   <br>
@@ -91,7 +82,7 @@ https://miro.com/app/board/uXjVM9xFDu0=/
 <li>Ürün Durumu:
   <br> </br>
   
-<li>:Sprint Review: Alınan kararlar: ****  Sprint Review katılımcıları:****
+<li>:Sprint Review: Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış,  uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları:****
   <br></br>
   
 <li>Sprint Retrospective:
@@ -102,8 +93,4 @@ https://miro.com/app/board/uXjVM9xFDu0=/
   </ul>
   <br>
   <hr>
-  
-    
-
-
  
