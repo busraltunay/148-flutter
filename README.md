@@ -6,7 +6,7 @@ Team-Flutter-148
 <h2> </h2>
 
 <h1>Ürün İle İlgili Bilgiler</h1>
-
+<h3>Start Planning Your World Here </h3>
 TravelVenture, ucuz uçak biletlerini bulmanıza ve seyahat deneyimlerinizi paylaşmanıza yardımcı olan kullanıcı dostu bir platformdur. Anlık bildirimlerle en iyi fiyatları takip edebilir, seyahat fotoğrafları, videoları ve önerileri paylaşabilirsiniz. Özelleştirilebilir arama seçenekleri sayesinde bütçenize uygun seyahat fırsatlarını keşfedebilirsiniz. Seyahatseverlerin vazgeçilmez yardımcısı olan TravelVenture, unutulmaz keşifler için bir kapı aralar.
 
 <hr>
@@ -26,8 +26,10 @@ TravelVenture, ucuz uçak biletlerini bulmanıza ve seyahat deneyimlerinizi payl
    <h2>  <li>TravelVenture </h2>
    <!-- images -->
    
- ![WhatsApp Görsel 2023-06-19 saat 10 56 25](https://github.com/busraltunay/148-flutter/assets/77733418/5f66e48d-4858-49e2-b9ff-34b97bd2df09)
  
+ 
+ 
+ <br>
 <hr>
 <h1>Product Backlog URL</h1>
 <!-- Links -->
@@ -72,7 +74,7 @@ Keşfetmenin ve seyahat etmenin kolay yolu! Uygulamamız, en ucuz uçak biletler
     <hr>
    <br>
  <h1>Sprint 1</h1>
- <li>Sprint içinde tamamlanması tahmin edilen puan : 
+ <li>Sprint içinde tamamlanması tahmin edilen puan : 100
   <br> </br>
 <li>Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
   <br> </br>
