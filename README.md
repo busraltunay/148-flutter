@@ -4,9 +4,12 @@
 Team-Flutter-148
 <br>
 <h2> </h2>
+
 <h1>Ürün İle İlgili Bilgiler</h1>
-<pre>
-</pre>
+
+TravelVenture, ucuz uçak biletlerini bulmanıza ve seyahat deneyimlerinizi paylaşmanıza yardımcı olan kullanıcı dostu bir platformdur. Anlık bildirimlerle en iyi fiyatları takip edebilir, seyahat fotoğrafları, videoları ve önerileri paylaşabilirsiniz. Özelleştirilebilir arama seçenekleri sayesinde bütçenize uygun seyahat fırsatlarını keşfedebilirsiniz. Seyahatseverlerin vazgeçilmez yardımcısı olan TravelVenture, unutulmaz keşifler için bir kapı aralar.
+
+<hr>
 
 
 <br>
@@ -21,11 +24,15 @@ Team-Flutter-148
 
 <h1>Ürün İsmi</h1>
    <h2>  <li>TravelVenture </h2>
+   <pre> 
+                                         </pre>
 
 <hr>
 <h1>Product Backlog URL</h1>
 <!-- Links -->
+
 https://miro.com/app/board/uXjVM9xFDu0=/
+
 <hr>
 <h1>Ürün Açıklaması</h1>
 
