@@ -24,9 +24,10 @@ TravelVenture, ucuz uçak biletlerini bulmanıza ve seyahat deneyimlerinizi payl
 
 <h1>Ürün İsmi</h1>
    <h2>  <li>TravelVenture </h2>
-   <pre> 
-                                         </pre>
-
+   <!-- images -->
+   
+ ![WhatsApp Görsel 2023-06-19 saat 10 56 25](https://github.com/busraltunay/148-flutter/assets/77733418/5f66e48d-4858-49e2-b9ff-34b97bd2df09)
+ 
 <hr>
 <h1>Product Backlog URL</h1>
 <!-- Links -->
@@ -73,9 +74,9 @@ Keşfetmenin ve seyahat etmenin kolay yolu! Uygulamamız, en ucuz uçak biletler
  <h1>Sprint 1</h1>
  <li>Sprint içinde tamamlanması tahmin edilen puan : 
   <br> </br>
-<li>Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken *** puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından *** ile başlaması gerektiğine karar verildi.
+<li>Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
   <br> </br>
-<li>Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+<li>Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp ya da Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
   <br> </br>
 <li>Sprint board update: Sprint board screenshotları:
   <br>
@@ -89,7 +90,7 @@ Keşfetmenin ve seyahat etmenin kolay yolu! Uygulamamız, en ucuz uçak biletler
 <li>Ürün Durumu:
   <br> </br>
   
-<li>:Sprint Review: Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış,  uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları:****
+<li>:Sprint Review: 
   <br></br>
   
 <li>Sprint Retrospective:
