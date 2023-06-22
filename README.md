@@ -90,9 +90,9 @@ Keşfetmenin ve seyahat etmenin kolay yolu! Uygulamamız, en ucuz uçak biletler
 
 <li>Ürün Durumu:
   <br> Geliştiriliyor </br>
-  
-<li>1.Sprint Review: 
-  
+ 
+<h2>1.Sprint Review:</h2> 
+ 
   <!-- iamge -->
    ![WhatsApp Görsel 2023-06-19 saat 00 03 42](https://github.com/busraltunay/148-flutter/assets/77733418/e2366d64-718f-48a6-8944-87c0f407991c)
   <br> </br>
@@ -100,11 +100,11 @@ Keşfetmenin ve seyahat etmenin kolay yolu! Uygulamamız, en ucuz uçak biletler
   <br> </br>
   ![WhatsApp Görsel 2023-06-22 saat 20 51 43](https://github.com/busraltunay/148-flutter/assets/77733418/bf363852-ebe7-4260-818d-b6f285dfbfe6)
 
-
+<li>Alınan kararlar: Problem tespiti yapıldı. Tespit edilen probleme uygun çözüm fikirleri üzerinde konuşuldu. Uygulama gereklilikleri üzerinde fikir alışverişi yapıldı.</li>
   
   <br></br>
   
-<li>Sprint Retrospective:
+<h2>Sprint Retrospective:<h2>
   <ul>
   <li> Takım içindeki görev dağılımı kararlaştırıldı. </li>
   <li> Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır </li>
