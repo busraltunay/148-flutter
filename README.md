@@ -105,11 +105,12 @@ Keşfetmenin ve seyahat etmenin kolay yolu! Uygulamamız, en ucuz uçak biletler
   <br></br>
   
 <h2>Sprint Retrospective:<h2>
-  <ul>
-  <li> Takım içindeki görev dağılımı kararlaştırıldı. </li>
-  <li> Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır </li>
-  <li>  </li>
-  </ul>
+<h5>
+  
+  <li> Takım içindeki görev dağılımı kararlaştırıldı. 
+  <li> Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır 
+ 
+</h5>
   <br>
   <hr>
  
