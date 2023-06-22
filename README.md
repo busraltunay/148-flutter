@@ -20,7 +20,7 @@ TravelVenture, ucuz uçak biletlerini bulmanıza ve seyahat deneyimlerinizi payl
   <li> Burak Değirmencioğlu : Developer</li>
   <li> Onur Kurtulan : Developer</li>
   <li> Eray Çelik : Developer</li>
-<hr />
+<hr /> 
 
 <h1>Ürün İsmi</h1>
    <h2>  <li>TravelVenture </h2>
@@ -70,7 +70,7 @@ Keşfetmenin ve seyahat etmenin kolay yolu! Uygulamamız, en ucuz uçak biletler
 <br>
             
 <h1>Juriye Not</h1>
-  <li>---
+  <li> Uygulama görseli yok </li>
     <hr>
    <br>
  <h1>Sprint 1</h1>
@@ -90,9 +90,12 @@ Keşfetmenin ve seyahat etmenin kolay yolu! Uygulamamız, en ucuz uçak biletler
 
 
 <li>Ürün Durumu:
-  <br> </br>
+  <br> Geliştiriliyor </br>
   
-<li>:Sprint Review: 
+<li>1.Sprint Review: 
+  <br> </br>
+  <!-- iamge -->
+   ![WhatsApp Görsel 2023-06-19 saat 00 03 42](https://github.com/busraltunay/148-flutter/assets/77733418/e2366d64-718f-48a6-8944-87c0f407991c)
   <br></br>
   
 <li>Sprint Retrospective:
