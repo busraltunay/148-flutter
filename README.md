@@ -134,13 +134,10 @@ Keşfetmenin ve seyahat etmenin kolay yolu! Uygulamamız, en ucuz uçak biletler
 <li> <h2>Ürün Durumu:</h2>
  Geliştiriliyor 
  <hr></hr>
-<h2>2-3.Sprint Review:</h2> 
+<h2>2.Sprint Review:</h2> 
  
   <!-- iamge -->
-  ![flutter148-1 (3)](https://github.com/busraltunay/148-flutter/assets/77733418/c37ef014-ab6d-4286-ade6-57cf8b682b72)
-  ![flutter148-1 (2)](https://github.com/busraltunay/148-flutter/assets/77733418/c88da99d-5281-41ee-ba4d-f17ecfaa75ae)
-  ![flutter148-1 (1)](https://github.com/busraltunay/148-flutter/assets/77733418/9a86ed1b-f435-4a5e-bb2c-ff8edbb7f853)
-
+ 
 
 
 
@@ -154,5 +151,48 @@ Keşfetmenin ve seyahat etmenin kolay yolu! Uygulamamız, en ucuz uçak biletler
   <li>login açılış ekranı üzerinde iyileştirmeler yapılarak 11.07.2023 tarihinde tekrar toplanılarak ux/uı üzerinde tekrar konuşulacaktır.</li>
  
 </h5>
+
+<hr>
+  -------------------------
+ <br>
+ <hr>
+
+   <h1>Sprint 3</h1>
+ <li>Sprint içinde tamamlanması tahmin edilen puan : 150
+  <br> </br>
+<li>Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+  <br> </br>
+<li>Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp ya da Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısda login sayfası üzerinde konuşuldu örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+  <br> </br>
+<li>Sprint board update: Sprint board screenshotları:
+  <br>
+  <!--- image -->
+
+![gorusme](https://github.com/busraltunay/148-flutter/assets/77733418/58fbaa2c-301c-4381-af51-3fbc1a359c76)
+
+ 
   
+  
+
+<li> <h2>Ürün Durumu:</h2>
+ Geliştiriliyor 
+ <hr></hr>
+<h2>3.Sprint Review:</h2> 
+ 
+  <!-- iamge -->
+ ![loginpage](https://github.com/busraltunay/148-flutter/assets/77733418/a35fdf91-2619-48ad-a984-1dbc5ff3432d)
+
+
+
+
+<li>Alınan kararlar: Uygulama uı/uıx ve backend gereklilikleri ve sorunlar  üzerinde fikir alışverişi yapıldı.</li>
+
+<h2>Sprint Retrospective:<h2>
+<h5>
+  
+  <li> toplantıda login sayfası ve arayüz üzerinde konuşuldu. 
+  <li> uygulamanın akış şeması hakkında figma üzerinden kritikler verildi.
+  <li>login açılış ekranı üzerinde iyileştirmeler yapılarak 18.07.2023 tarihine kadar projeyi yetiştimeyi  planladık.</li>
+ 
+</h5>
   <br></br>
