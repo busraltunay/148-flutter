@@ -69,7 +69,7 @@ Keşfetmenin ve seyahat etmenin kolay yolu! Uygulamamız, en ucuz uçak biletler
             
 <br>
             
-<h1>Juriye Not</h1>
+<h1>Juriye Not : Kodlar Master Branch'in altındadır </h1>
   <li> Uygulama görseli yok </li>
     <hr>
    <br>
