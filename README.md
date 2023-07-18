@@ -169,11 +169,12 @@ Keşfetmenin ve seyahat etmenin kolay yolu! Uygulamamız, en ucuz uçak biletler
   <br> </br>
 <li>Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp ya da Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısda login sayfası üzerinde konuşuldu örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
   <br> </br>
-<li>Sprint board update: Sprint board screenshotları:
+<h2>Sprint board update: Sprint board screenshotları:</h2>
   <br>
   <!--- image -->
 
 ![gorusme](https://github.com/busraltunay/148-flutter/assets/77733418/58fbaa2c-301c-4381-af51-3fbc1a359c76)
+![board](https://github.com/busraltunay/148-flutter/assets/77733418/03c29784-ba6b-4ae7-a936-b5d2e428f523)
 
  
   
@@ -198,6 +199,12 @@ Keşfetmenin ve seyahat etmenin kolay yolu! Uygulamamız, en ucuz uçak biletler
   <li> toplantıda login sayfası ve arayüz üzerinde konuşuldu. 
   <li> uygulamanın akış şeması hakkında figma üzerinden kritikler verildi.
   <li>login açılış ekranı üzerinde iyileştirmeler yapılarak 18.07.2023 tarihine kadar projeyi yetiştimeyi  planladık.</li>
- 
+
 </h5>
   <br></br>
+  
+   
+
+
+
+   
