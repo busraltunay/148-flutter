@@ -174,6 +174,8 @@ Keşfetmenin ve seyahat etmenin kolay yolu! Uygulamamız, en ucuz uçak biletler
   <!--- image -->
 
 ![gorusme](https://github.com/busraltunay/148-flutter/assets/77733418/58fbaa2c-301c-4381-af51-3fbc1a359c76)
+<br> 
+
 ![board](https://github.com/busraltunay/148-flutter/assets/77733418/03c29784-ba6b-4ae7-a936-b5d2e428f523)
 
  
